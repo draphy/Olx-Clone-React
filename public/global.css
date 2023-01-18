@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.alignItemCenter {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.alignItemSpaceBetween {
+  justify-content: space-between;
+  align-items: center;
+}
+
+#root {
+  margin: auto;
+  padding: 0 0 0 0;
+ 
+}
